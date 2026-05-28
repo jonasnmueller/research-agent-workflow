@@ -79,6 +79,10 @@ Useful flags:
 ./scripts/adopt_project.sh ~/Desktop/xray xray TODO --github-url https://github.com/me/xray.git
 ```
 
+If someone else wants Codex to do the setup for them inside an existing
+assignment folder, give them the copy/paste handoff in
+`CODEX_EXISTING_ASSIGNMENT_HANDOFF.md`.
+
 ## Standard Agent Loop
 
 Inside a project folder:
