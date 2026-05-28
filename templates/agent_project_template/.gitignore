@@ -1,0 +1,26 @@
+.DS_Store
+.venv/
+.gh-config/
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+*.tmp
+
+# LaTeX build outputs
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# Local-only files
+.env
+.env.*
